@@ -38,7 +38,7 @@ class Deck{
 }
 
 //Card 클래스
-class Card{
+/*class Card{
 	static final int KIND_MAX = 4; //카드 무늬의 수
 	static final int NUM_MAX = 13; //무늬별 카드 수
 	
@@ -66,7 +66,7 @@ class Card{
 		return "kinds : "+kinds[this.kind] + ", number : "+numbers.charAt(this.number);
 	}
 	
-}
+}*/
 
 public class DeckTest {
 	public static void main(String[] args) {
