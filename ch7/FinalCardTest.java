@@ -31,6 +31,10 @@ public class FinalCardTest {
 		System.out.println(c.KIND);
 		System.out.println(c.NUMBER);
 		System.out.println(c);
+		
+		Card c1 = new Card();
+		System.out.println(c1.KIND);
+		System.out.println(c1.NUMBER);
 	}
 
 }
