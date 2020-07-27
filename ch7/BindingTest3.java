@@ -19,9 +19,7 @@ public class BindingTest3 {
 		//x = 200
 		//super.x = 100
 		//this.x = 200
-		
-		
-		
+			
 	}
 
 }

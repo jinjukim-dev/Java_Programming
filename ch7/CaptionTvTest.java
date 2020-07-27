@@ -1,6 +1,6 @@
 package ch7;
 
-class Tv{
+class Tv1{
 	boolean power; //전원상태 (on/off)
 	int channel; //채널
 	
@@ -9,7 +9,7 @@ class Tv{
 	void channelDown() {--channel;}
 }
 
-class CaptionTv extends Tv{
+class CaptionTv extends Tv1{
 	boolean caption; //기본값 false
 	
 	void displayCaption(String text) {
