@@ -1,4 +1,4 @@
-package ch7;
+/*package ch7;
 
 abstract class Unit {
 
@@ -14,8 +14,7 @@ class Marine extends Unit{
 	@Override
 	void move(int x, int y) {
 		System.out.println("Marine move ( "+x+", "+y+")");
-	}
-	void stimPack() {
+	}	void stimPack() {
 		
 	}
 	
@@ -45,3 +44,4 @@ class Dropship extends Unit{
 		
 	}
 }
+*/

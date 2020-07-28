@@ -1,4 +1,4 @@
-package ch7;
+/*package ch7;
 
 public class AbstractTest2 {
 	
@@ -17,3 +17,4 @@ public class AbstractTest2 {
 	}
 
 }
+*/
