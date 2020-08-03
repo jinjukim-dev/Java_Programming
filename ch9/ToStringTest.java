@@ -9,6 +9,12 @@ public class ToStringTest {
 		System.out.println(str.toString());
 		System.out.println(today);
 		System.out.println(today.toString());
+		
+		String s = "kimjinrt";
+		int idx1 = s.lastIndexOf("jin");
+		int idx2 = s.indexOf("jin");
+		System.out.println(idx1);
+		System.out.println(idx2);
 	}
 
 }
